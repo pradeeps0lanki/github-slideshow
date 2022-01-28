@@ -2,5 +2,5 @@
 layout : slide
 title : "welcome to our second slide ! "
 ---
-your text
+padeep sooanki
 use the left arrow to go back!
